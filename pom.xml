@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.xy</groupId>
-    <artifactId>SSMDEMO</artifactId>
+    <artifactId>SSM</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>SSMDEMO Maven Webapp</name>
+    <name>SSM Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -191,7 +191,7 @@
     </dependencies>
 
     <build>
-        <finalName>SSMDEMO</finalName>
+        <finalName>SSM</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
